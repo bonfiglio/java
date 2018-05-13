@@ -18,7 +18,7 @@ Java is a platform this platform is a set of tools, components, elements that al
         <br> <b>Java TV</b> Utilities per sistemi embedded focalizzati allo streaming video o media ingenerale 
         <br> <b>Java FX</b> Utilities per applicaszioni stand-alone per <b>Desktop Applications</b>  
         <br> <b>Java EE</b> Utilities per il mondo dei <b>SERVER WEB 
-        <a href=\"http://rekse.altervista.org/javaoverview.png\">http://rekse.altervista.org/javaoverview.png</a>");
+        <br>http://rekse.altervista.org/javaoverview.png
        
 
 ## Passo 1
