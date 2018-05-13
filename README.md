@@ -4,9 +4,21 @@ Gain entry-level skills and knowledge in Java fundamentals and an intro to Andro
 Java is a platform this platform is a set of tools, components, elements that allow to develop Java programs.
       ##Green Project
       by James Goling : was intended to develop a language that you can use in embedded systems.<br>
-       <b>Embedded systems ????? </b> A small computer that exists in your car,\n\t\t in the microwave maybe in your watch (clock),\n\t\t where you need to run different instructions,\n\t\t execute some functions, to show some data or something like that.");
+       <b>Embedded systems ????? </b> A small computer that exists in your car,in the microwave maybe in your watch (clock), where you need to run different instructions,execute some functions, to show some data or something like that.<br>
         <b>ma Java lavora anche su web  A plug-in browser </b>that contains a small Java Virtual Machine in Netscape browser, and then they could run the applet.
-        The applet is a small program written in Java and they can move some objects in the web."
+        The applet is a small program written in Java and they can move some objects in the web.
+       <br>Ultima release Java ?????????" <br>
+        <br>Java : <h2>scrivi una volta ed esegui ovunque</h2>
+        <br>4 principali componenti della piattaforma Java 
+        <br> <b>LINGAGGIO JAVA</b> tutte si basano sul linguaggio JAVA classes loops statements conditionals
+        <br><b>Java Standard Edition </b> e' la base della platform, sono defilite le principali classi, utils e trovare le differenti 'collections', che si possono richiamare all'interno del programma
+        <br> <b>Java MICRO Edition </b> e' la base della platform orientata ai sistemi embedded , per piccole JVM (solo pochi kbyte"
+        <br><b>Java Card Edition </b> e' la base + piccola della platform, per le cards a microprocessore piccole funzioni di autorizzazione e autenticazione SIM
+        <br> Su queste parti vi sono le <b>API Application Programming Interface </b> 
+        <br> <b>Java TV</b> Utilities per sistemi embedded focalizzati allo streaming video o media ingenerale 
+        <br> <b>Java FX</b> Utilities per applicaszioni stand-alone per <b>Desktop Applications</b>  
+        <br> <b>Java EE</b> Utilities per il mondo dei <b>SERVER WEB 
+        <a href=\"http://rekse.altervista.org/javaoverview.png\">http://rekse.altervista.org/javaoverview.png</a>");
        
 
 ## Passo 1
